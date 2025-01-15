@@ -42,7 +42,7 @@ Key tasks included:
 
 ## 🌟 Page 1: Calls Analysis
 
-![Screenshot 2024-05-06 150952](https://github.com/purvaphalak/Call_Center_Analysis/assets/148857209/3a60e0f9-95cc-42ea-9d80-986866815490)
+![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Call-Center-Trend-Analysis---PowerBI/blob/master/assets/Screenshot%20(25).png?raw=true))
 
 ### KPI's:
 
