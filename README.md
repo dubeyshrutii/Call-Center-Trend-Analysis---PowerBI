@@ -112,7 +112,9 @@ The average time to answer a call was 67.52 seconds, suggesting some delays in c
 
 ## 🌟 Page 2: Agent Analysis
 
-![Screenshot 2024-05-06 151010]()
+![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Call-Center-Trend-Analysis---PowerBI/blob/master/assets/Screenshot%20(25).png?raw=true)
+
+### KPI's:
 
 #### ➢ Total Size:
  
@@ -189,35 +191,35 @@ Diane also had the quickest average speed of answer (66.2 seconds), demonstratin
 
 ### ✅ Key insights and Summary:
 
-➤ The Call Center Analysis project evaluates call handling, agent performance, and customer satisfaction over a three- 
+✦ The Call Center Analysis project evaluates call handling, agent performance, and customer satisfaction over a three- 
    month period.
    
-➤ Call Metrics: A total of 5,000 calls were analyzed, with 81% (4,054 calls) successfully answered and 19% (946 calls) 
+✦ Call Metrics: A total of 5,000 calls were analyzed, with 81% (4,054 calls) successfully answered and 19% (946 calls) 
    abandoned. The resolution rate stood at 72.92%, indicating efficiency but also areas for improvement in unresolved cases.
    
-➤ Call Trends: Monday and Saturday experienced the highest call volumes, while Tuesday saw lower traffic. Most calls 
+✦ Call Trends: Monday and Saturday experienced the highest call volumes, while Tuesday saw lower traffic. Most calls 
    occurred between 10 AM and 2 PM, with a noticeable decline after 5 PM.
    
-➤ Agent Performance:
+✦ Agent Performance:
   - Jim resolved the highest number of calls (485) and handled the most calls overall.
   - Diane recorded the highest number of missed calls, while Becky was the fastest responder, averaging 65.3 seconds per 
     call.
   - Martha achieved the highest satisfaction score (3.47), while Joe had the lowest (3.33), indicating areas for 
     improvement.
     
-➤ Customer Satisfaction: The average satisfaction rating was 3.4 out of 5, highlighting the need to enhance resolution 
+✦ Customer Satisfaction: The average satisfaction rating was 3.4 out of 5, highlighting the need to enhance resolution 
    speed, improve service quality, and address unresolved issues proactively.
 
 ## 🔹 Conclusion :-
 
-➤ Optimizing agent availability during periods of high call volume, as seen in the time-of-day analysis, can improve 
+✦ Optimizing agent availability during periods of high call volume, as seen in the time-of-day analysis, can improve 
    answered call rates.
 
-➤ Addressing abandoned calls in topics like Streaming and Payment Issues will enhance customer satisfaction and reduce 
+✦ Addressing abandoned calls in topics like Streaming and Payment Issues will enhance customer satisfaction and reduce 
    unresolved queries.
 
-➤ Focused training for agents with lower performance metrics can help balance workload distribution and improve team 
+✦ Focused training for agents with lower performance metrics can help balance workload distribution and improve team 
    efficiency.
 
-➤ Efforts to improve the 72.92% resolution rate can drive better customer trust and retention, strengthening overall 
+✦ Efforts to improve the 72.92% resolution rate can drive better customer trust and retention, strengthening overall 
    operations.
