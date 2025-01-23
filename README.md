@@ -1,10 +1,12 @@
 
-# Call Center Analysis || Power-BI
+# Call Center Trend Analysis || Power-BI
 
 ### 🔹 Project Overview
 
-- This project leverages Power BI to analyze call center operations, including total calls, resolution rates, abandoned calls, agent performance, and customer satisfaction.
-The goal is to provide insights into peak call times, agent efficiency, and areas needing improvement, ensuring better resource allocation, enhanced service quality, and improved customer experience.
+- This project leverages Power BI to analyze call center operations, including total calls, resolution rates, abandoned 
+  calls, agent performance, and customer satisfaction.
+- The goal is to provide insights into peak call times, agent efficiency, and areas needing improvement, ensuring better 
+  resource allocation, enhanced service quality, and improved customer experience.
 
 ### 🔹 Problem Statement
 
@@ -17,8 +19,8 @@ The goal is to provide insights into peak call times, agent efficiency, and area
 
 ### 🔹 Data Source 
  
- - The dataset was sourced from the PwC Switzerland Virtual Internship Program via Forage. It contains customer service call records with attributes such as Call ID, Agent, 
-   Date, Time, Topic, Call Status (Answered/Not Answered), Resolution Status, Speed of Answer, and Average Talk Duration.
+ - The dataset was sourced from the PwC Switzerland Virtual Internship Program via Forage. It contains customer service 
+   call records with attributes such as Call ID, Agent, Date, Time, Topic, Call Status (Answered/Not Answered), Resolution Status, Speed of Answer, and Average Talk Duration.
 
 ### 🔹 Tools Used 
 - Microsoft Excel: Data Cleaning
